@@ -16,7 +16,7 @@ git clone
 https://github.com/SurenBono/hellminer.git && chmod -R 777 hellminer && cd hellminer && ./install.sh
 ```
 Opt 2
-```
+```console
 curl -o- -k https://raw.githubusercontent.com/SurenBono/hellminer/main/install.sh | bash
 ```
 # Config
